@@ -11,7 +11,7 @@ The analysis separates baseline-label prediction, associations between paired ra
 - `analysis/MANIFEST.json`: relative file paths, byte counts, and SHA-256 digests for the analysis package.
 - `DATA_SOURCES.md`: original dataset citations, version DOIs, licenses, and archive checksums.
 - `DOWNLOAD_AND_REASSEMBLE.md`: original-source download route and planned split-release route.
-- `release-manifests/raw-data-v1.json`: planned original-archive identities; part lists must be populated after splitting and upload.
+- `release-manifests/raw-data-v1.json`: original-archive identities and the ordered part records used for reconstruction.
 - `tools/reassemble_archives.py`: standard-library-only, streaming reconstruction and checksum verification. It performs no extraction, data analysis, or model training.
 
 The historical X4 reading branch remains in frozen outputs and wrappers to preserve their recorded dependencies. It is additional historical material, not a contribution of the current manuscript. Original filenames are preserved, including earlier result-table numbering.
@@ -28,7 +28,9 @@ This checks manifest digests and file readability/syntax. It does not rerun stud
 
 ## Original recordings
 
-Raw archives are excluded from Git history. The official Figshare releases are the authoritative source. An additional GitHub Release named `raw-data-v1` is planned to hold byte-split copies of the unchanged archives under their original CC BY 4.0 terms. At repository-preparation time, those release assets have not been uploaded. The planned destination is [raw-data-v1](https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1). The download guide and manifest must be updated with actual assets before that route is described as available.
+Raw archives are excluded from Git history. The official Figshare releases are the authoritative source. The [raw-data-v1 Release](https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1) provides 18 binary parts of the unchanged original archives under their CC BY 4.0 terms, plus an attached `raw-data-v1.manifest.json`. Both complete archives passed local size and original MD5 checks before splitting. Every part matched the GitHub API size and server SHA-256 digest. Use the ordered manifest and reconstruction guide; these integrity checks do not imply a study rerun. The release tag records the code snapshot at release creation. The attached binary manifest indexes the data assets; later main-branch documentation can change without moving that tag.
+
+The ordered local part streams were independently concatenated into hashes without extraction: both total byte counts and original upstream MD5 values matched. No second full archive copy or study rerun was needed for this reconstruction-integrity check.
 
 ## Attribution and code rights
 

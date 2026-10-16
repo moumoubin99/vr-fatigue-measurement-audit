@@ -1,6 +1,6 @@
 # Download and reconstruct original archives
 
-The official Figshare data versions in `DATA_SOURCES.md` are available as the primary download route. A GitHub Release tagged `raw-data-v1` is planned as an additional route for the same archives. Its split assets have not been uploaded during this repository-preparation step. Empty part lists and `status: planned` in the manifest are deliberate; the reconstruction tool refuses an unfinished list.
+The official Figshare data versions in `DATA_SOURCES.md` are available as the primary download route. The [raw-data-v1 Release](https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1) is an additional route for the same archives. It contains 18 binary parts and the attached `raw-data-v1.manifest.json`. Both archives passed local original-size/MD5 checks before splitting; every part matched GitHub API size and server SHA-256. The repository manifest has `status: ready`. These checks do not mean that all data were downloaded again from GitHub or that study analyses were rerun.
 
 ## Direct official download
 
@@ -13,13 +13,9 @@ python tools/reassemble_archives.py --manifest release-manifests/raw-data-v1.jso
 python tools/reassemble_archives.py --manifest release-manifests/raw-data-v1.json --archive GazeBase_v2_0.zip --verify-existing raw/GazeBase_v2_0.zip
 ```
 
-## Planned split-release route
+## Split-release route
 
-After release publication, the maintainer must replace the empty part arrays in `release-manifests/raw-data-v1.json` with the actual ordered part records and change `status` to `ready`. Each record has this structure; the values below are a schema illustration, not an actual asset:
-
-```json
-{"name": "archive.zip.part001", "bytes": 123, "sha256": "64 hexadecimal characters", "download_url": "actual published asset URL"}
-```
+Download the published `raw-data-v1.manifest.json` asset or use the matching `release-manifests/raw-data-v1.json` from the current repository. The manifest records every actual part in reconstruction order, with its byte count, SHA-256, and download URL. The Git tag is the code snapshot at release creation; the attached manifest is the binary asset index. A later main-branch documentation commit does not move the tag.
 
 Download every listed part for one archive into a single local `downloads/` directory. Preserve exact names. Do not extract parts individually. The manifest order determines concatenation order; the tool does not infer it from directory listings.
 
@@ -29,6 +25,8 @@ python tools/reassemble_archives.py --manifest release-manifests/raw-data-v1.jso
 ```
 
 The tool uses bounded streaming I/O, checks each part's bytes and SHA-256, then checks the reconstructed archive's total bytes and upstream MD5. It never downloads files, executes extraction, runs an experiment, or trains a model. It refuses an existing output path. A failed reconstruction removes only the newly created incomplete output. Allow storage for both the downloaded parts and the reconstructed archive. A successful checksum match establishes byte identity with the listed upstream archive, not successful study reproduction.
+
+The ordered local part streams were independently concatenated into hashes without extraction: both total byte counts and original upstream MD5 values matched. No second full archive copy or study rerun was needed for this reconstruction-integrity check.
 
 ## Analysis layout
 

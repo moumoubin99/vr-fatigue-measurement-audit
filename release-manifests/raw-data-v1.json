@@ -1,9 +1,11 @@
 {
   "schema_version": 1,
-  "status": "planned",
+  "status": "ready",
   "release_tag": "raw-data-v1",
   "release_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1",
-  "notice": "Original archive identities are verified upstream metadata. No parts are uploaded by this preparation step. Populate each parts array in reconstruction order with actual name, bytes, sha256 and download_url values, then set status to ready only after access checks.",
+  "release_id": 415038559,
+  "tag_target_commit": "ef89c4684906370af591f579c7d31ead9dce201b",
+  "notice": "Original upstream archives, byte-split without extraction or modification. Part bytes and server SHA-256 match local files; original archive MD5 was verified locally. These integrity checks are not study reproduction.",
   "archives": [
     {
       "file_name": "gazebasevr.zip",
@@ -11,7 +13,39 @@
       "md5": "048c04b00fd64347375cc8d37b451a22",
       "source_doi": "10.6084/m9.figshare.21308391.v2",
       "license": "CC-BY-4.0",
-      "parts": []
+      "sha256": "b0df185a2f7d96a0d9b2eeac6364f9b6495a63856c5fb0fc3c5817d1d720759a",
+      "parts": [
+        {
+          "name": "gazebasevr.zip.part001",
+          "bytes": 536870912,
+          "sha256": "318ca941db93399fb3fcc8b1d2d610d180d6469889c79f580d6fa944eba5b9c6",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/gazebasevr.zip.part001"
+        },
+        {
+          "name": "gazebasevr.zip.part002",
+          "bytes": 536870912,
+          "sha256": "0037680ce6237c030438fbe2693c543daf3b0d4bad41372811bd03563a9b4040",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/gazebasevr.zip.part002"
+        },
+        {
+          "name": "gazebasevr.zip.part003",
+          "bytes": 536870912,
+          "sha256": "f9571cc0c6657313a425e74f91646f616284d411a93f6fbfaa50be088a1d06d6",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/gazebasevr.zip.part003"
+        },
+        {
+          "name": "gazebasevr.zip.part004",
+          "bytes": 536870912,
+          "sha256": "53c892d50dbb02fc8cef466f8f73216d8cb6e199f12235782cd6fd89e3f49899",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/gazebasevr.zip.part004"
+        },
+        {
+          "name": "gazebasevr.zip.part005",
+          "bytes": 323118327,
+          "sha256": "c8ed8b8881755186786dbe1ab7451e3510284ecece60dbf7c510fbbf4f3e36d8",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/gazebasevr.zip.part005"
+        }
+      ]
     },
     {
       "file_name": "GazeBase_v2_0.zip",
@@ -19,7 +53,87 @@
       "md5": "cb7eb895fb48f8661decf038ab998c9a",
       "source_doi": "10.6084/m9.figshare.12912257.v3",
       "license": "CC-BY-4.0",
-      "parts": []
+      "sha256": "ccf9280fbf15673012be3b5f5e3870b694a5b39db6ed8de3da3fbc70297ba1ff",
+      "parts": [
+        {
+          "name": "GazeBase_v2_0.zip.part001",
+          "bytes": 536870912,
+          "sha256": "222bbac7c3b0bace0ae96b073b36cf17420f6a4696556e64dfbcc3b5fc214457",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part001"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part002",
+          "bytes": 536870912,
+          "sha256": "2b900a9c19b06a930723b27510d157e8d478c91cb4c48f0f95630d103a5210ce",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part002"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part003",
+          "bytes": 536870912,
+          "sha256": "6d86021582eb5044a10b08d5b73ba0f70c978f22dfa3771b0175263b14ac253c",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part003"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part004",
+          "bytes": 536870912,
+          "sha256": "e7332db9c6d37b14c4c7b6e40f801a31aae13334dae4c951615a934f91202326",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part004"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part005",
+          "bytes": 536870912,
+          "sha256": "c2505cae9f68e89c444a59bcc2bc8d572cf494150687c740fbc5efd17767458d",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part005"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part006",
+          "bytes": 536870912,
+          "sha256": "8ceab35ae161a3079f4fbda9dacc53f208546c368e78ef1139a5776f9bfcc88d",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part006"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part007",
+          "bytes": 536870912,
+          "sha256": "7300ba6bf0d20f589aff817714ad7536afbf8231bc77fccd6660e1950f0f54f2",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part007"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part008",
+          "bytes": 536870912,
+          "sha256": "218da10c93fdbb05f09920735786657b326154ad36cbe9c1fc530a2ae766f37b",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part008"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part009",
+          "bytes": 536870912,
+          "sha256": "f3e62b502a1edea1996de48cb289b1052b2f8009729e09ef31c5afdc94bf95c5",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part009"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part010",
+          "bytes": 536870912,
+          "sha256": "795679c832d05a036ff02cff1b6badfbde31d2ea8deb928b37eca9cc207b90c7",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part010"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part011",
+          "bytes": 536870912,
+          "sha256": "d92ba41ee9b486e9115da5e33d5c79782207a99039e00eb367624d3ff795ae69",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part011"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part012",
+          "bytes": 536870912,
+          "sha256": "2b1d7e5a5cd778683999121b94506639826631cf6abee4d5c82ac24f4f98f0ef",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part012"
+        },
+        {
+          "name": "GazeBase_v2_0.zip.part013",
+          "bytes": 268533708,
+          "sha256": "328e695f94c4969959e39b3c6bfa371703fa9c92f16f73a0965132a7d554fd8f",
+          "download_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/download/raw-data-v1/GazeBase_v2_0.zip.part013"
+        }
+      ]
     }
   ]
 }

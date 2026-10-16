@@ -23,6 +23,6 @@ The supplementary sampling/injection check uses selected 1000 Hz EyeLink RAN rec
 
 ## Distribution routes
 
-Download the archives directly from the official version DOIs above. A secondary mirror as split GitHub Release assets is planned for `raw-data-v1`; see `DOWNLOAD_AND_REASSEMBLE.md`. The split-part list in `release-manifests/raw-data-v1.json` is intentionally empty until actual parts are generated and checked. No original archive is stored in Git history.
+Download the archives directly from the official version DOIs above. A secondary mirror is available as 18 split assets in the [raw-data-v1 Release](https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1), with an attached binary manifest; see `DOWNLOAD_AND_REASSEMBLE.md`. The complete local archives matched the original bytes and MD5 values above before splitting. Part bytes and SHA-256 digests matched GitHub server metadata. The ordered records are in `release-manifests/raw-data-v1.json` and the attached `raw-data-v1.manifest.json`. No original archive is stored in Git history.
 
 The source-dataset DOIs above identify upstream data. No DOI for this code release or the associated manuscript has been assigned in this package.
