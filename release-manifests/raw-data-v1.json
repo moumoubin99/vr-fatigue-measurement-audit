@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "status": "planned",
+  "release_tag": "raw-data-v1",
+  "release_url": "https://github.com/moumoubin99/vr-fatigue-measurement-audit/releases/tag/raw-data-v1",
+  "notice": "Original archive identities are verified upstream metadata. No parts are uploaded by this preparation step. Populate each parts array in reconstruction order with actual name, bytes, sha256 and download_url values, then set status to ready only after access checks.",
+  "archives": [
+    {
+      "file_name": "gazebasevr.zip",
+      "bytes": 2470601975,
+      "md5": "048c04b00fd64347375cc8d37b451a22",
+      "source_doi": "10.6084/m9.figshare.21308391.v2",
+      "license": "CC-BY-4.0",
+      "parts": []
+    },
+    {
+      "file_name": "GazeBase_v2_0.zip",
+      "bytes": 6710984652,
+      "md5": "cb7eb895fb48f8661decf038ab998c9a",
+      "source_doi": "10.6084/m9.figshare.12912257.v3",
+      "license": "CC-BY-4.0",
+      "parts": []
+    }
+  ]
+}

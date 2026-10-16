@@ -1,0 +1,39 @@
+# Original archives and split release assets belong outside Git history.
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.part[0-9]*
+raw/
+raw-data/
+downloads/
+release-assets/
+analysis/data/gazebasevr/
+analysis/data/gazebase/
+
+# Generated runs, training artifacts and machine configuration.
+/out/
+/analysis/out/
+*.log
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.partial
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+.DS_Store
+Thumbs.db
+
+# Manuscript and private preparation files are outside this repository's scope.
+*.pdf
+*.docx
+*.tex
+private/
+internal/

@@ -1,0 +1,13 @@
+# Third-party data and rights
+
+This repository distributes selected analysis code and derived numerical outputs for a secondary analysis of public eye-tracking data. Original data remain attributable to their source-dataset creators. Repository-level DATA_SOURCES.md records exact original archive identities and the planned raw-data release route.
+
+The package includes selected derived numerical outputs and analysis scripts. It does not include the original gaze recordings, the source participant workbook, publications, recorded stimuli or other third-party source material.
+
+GazeBaseVR: Dillon James Lohr, Samantha Aziz, Lee Friedman and Oleg V. Komogortsev. GazeBaseVR, a large-scale, longitudinal, binocular eye-tracking dataset collected in virtual reality. Scientific Data 10, 177 (2023). https://doi.org/10.1038/s41597-023-02075-5 . Official data repository: https://figshare.com/articles/dataset/GazeBaseVR_Data_Repository/21308391 . Dataset version DOI: https://doi.org/10.6084/m9.figshare.21308391.v2 . The repository states CC BY 4.0. Dataset authors and institutional approvals describe the original source study, not new data collection by this secondary analysis.
+
+GazeBase: Henry Griffith, Dillon James Lohr, Evgeny Abdulin and Oleg V. Komogortsev. GazeBase, a large-scale, multi-stimulus, longitudinal eye movement dataset. Scientific Data 8, 184 (2021). https://doi.org/10.1038/s41597-021-00959-y . Official data repository: https://figshare.com/articles/dataset/GazeBase_Data_Repository/12912257 . Dataset version DOI: https://doi.org/10.6084/m9.figshare.12912257.v3 . The dataset is provided under CC BY 4.0. Obtain original data from the official repository and check its release terms.
+
+The source data remain attributable to their original creators under their applicable license, including CC BY 4.0 attribution requirements: https://creativecommons.org/licenses/by/4.0/ . This package does not claim ownership of all third-party materials and does not apply a new blanket copyright or software license. Existing per-file or upstream license notices, where present, remain applicable. An explicit blanket reuse license for the study's own code has not been supplied; public availability alone does not grant an MIT or other software license.
+
+Public participant codes, original acquisition dates and letter-coded administrator groups occur in selected derived inputs because the analyses join records and test acquisition-context splits. They identify de-identified public dataset records, not manuscript authors. No raw gaze sample stream or original questionnaire workbook is included.

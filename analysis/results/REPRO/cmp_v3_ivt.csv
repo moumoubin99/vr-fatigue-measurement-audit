@@ -1,0 +1,8 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+errors.csv,0,0,identical,,,0.0,0.0,
+features.parquet,5020,5020,identical,,,0.0,0.0,
+ran_trials.parquet,79316,79316,identical,,,0.0,0.0,
+tables/meta.parquet,502,502,identical,,,0.0,0.0,
+tables/primary.parquet,1004,1004,identical,,,0.0,0.0,
+tables/ran_primary.parquet,64636,64636,identical,,,0.0,0.0,
+tables/wide.parquet,1004,1004,identical,,,0.0,0.0,

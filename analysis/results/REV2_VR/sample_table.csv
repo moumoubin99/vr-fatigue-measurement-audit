@@ -1,0 +1,21 @@
+Characteristic,Value
+"Participants, round 1",407
+"Age, years, mean (SD)","20.9 (4.1), range 18–58; n = 407"
+Gender,Female 216; Male 188; Other 3
+Vision correction reported,no 220; yes 168; missing 19
+Glasses / contact lenses,glasses 111; contacts 55
+Eye condition reported,no 365; yes 41; missing 1
+Prior eye-tracking experience,no 385; yes 20; missing 2
+Dominant eye,Right 264; Left 137; Neither 5; missing 1
+"Sleep, hours, mean (SD)","7.0 (1.5), range 2–12; n = 402"
+Caffeine in past 24 h,yes 241; no 161; missing 5
+Headache history,no 311; yes 87; missing 9
+"F0, eye fatigue before S1 (1–5)",1 175; 2 158; 3 55; 4 12; 5 4; missing 3
+"F1, between sessions (1–5)",2 177; 3 121; 1 70; 4 34; 5 4; missing 1
+"F2, after S2 (1–5)",2 150; 3 141; 4 58; 1 43; 5 12; missing 3
+A1 label (assignment 001),positive 230; negative 177
+A2 set: F0 present,404 (positive 229)
+A4 set: F1 and F2 present,404
+In A2 but not A4 / in A4 but not A2,2 / 2
+In both A2 and A4,402
+Missing values in D/S items (count of 407),lens_wear 13; lens_type 241; sleep_h 5; caffeine 5; sleep_med 15; headache24 13; alcohol24 17; prior_et 2; vision_corr 19; eye_cond 1; headache_hist 9; dom_eye 1; sleep0 2; neck0 2; shoulder0 2; comfort0 2

@@ -1,0 +1,6 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A4_changes.parquet,407,407,identical+cols,,d_eye_20;d_sleep_20,0.0,0.0,
+A4_ordinal.csv,6,6,identical,,,0.0,0.0,
+A4_primary.csv,6,6,identical,,,0.0,0.0,
+A4_quality.csv,6,6,identical,,,0.0,0.0,
+A4_scores.csv,4,4,identical,,,0.0,0.0,

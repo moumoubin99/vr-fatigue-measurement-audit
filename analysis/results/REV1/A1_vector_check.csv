@@ -1,0 +1,17 @@
+label,convention,t2_vec,t2_ref,t8_vec,t8_ref
+missing-unlabelled,post=after|student|available-case,3,3,22,22
+missing-unlabelled,post=after|student|paired-subset,3,3,23,23
+missing-unlabelled,post=after|welch|available-case,3,3,23,23
+missing-unlabelled,post=after|welch|paired-subset,3,3,26,26
+missing-unlabelled,post=between|student|available-case,3,3,13,13
+missing-unlabelled,post=between|student|paired-subset,3,3,14,14
+missing-unlabelled,post=between|welch|available-case,3,3,14,14
+missing-unlabelled,post=between|welch|paired-subset,3,3,16,16
+a001,post=after|student|available-case,9,9,28,28
+a001,post=after|student|paired-subset,9,9,34,34
+a001,post=after|welch|available-case,9,9,36,36
+a001,post=after|welch|paired-subset,9,9,36,36
+a001,post=between|student|available-case,9,9,17,17
+a001,post=between|student|paired-subset,9,9,19,19
+a001,post=between|welch|available-case,9,9,23,23
+a001,post=between|welch|paired-subset,9,9,22,22

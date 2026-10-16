@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this code and derived-results release. Cite the original GazeBaseVR and GazeBase datasets separately."
+type: software
+title: "Headset gaze and visual fatigue: analysis code and derived results"
+version: 1.0.0
+authors:
+  - family-names: Zhang
+    given-names: Jibin
+    orcid: "https://orcid.org/0000-0002-2920-6462"
+  - family-names: Gui
+    given-names: Hui
+    orcid: "https://orcid.org/0009-0009-6832-5796"
+repository-code: "https://github.com/moumoubin99/vr-fatigue-measurement-audit"
+abstract: "Selected analysis code, frozen derived inputs and results, reconstructed labels, evaluation splits, and a reproducibility map for a secondary analysis of public headset eye-tracking data. This citation identifies the code and derived-results release, not a published article."
+keywords:
+  - virtual reality
+  - eye tracking
+  - visual fatigue
+  - measurement
+  - reproducibility

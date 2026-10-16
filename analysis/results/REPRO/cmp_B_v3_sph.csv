@@ -1,0 +1,2 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+B1B2.csv,3,3,identical,,,0.0,0.0,

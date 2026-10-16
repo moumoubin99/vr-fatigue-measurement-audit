@@ -1,0 +1,7 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A4_ordinal.csv,6,6,identical,,,0.0,0.0,
+A4_primary.csv,6,6,identical,,,0.0,0.0,
+A4_quality.csv,6,6,identical,,,0.0,0.0,
+A4_scores.csv,6,4,rows,,,,,
+A4_std.csv,24,20,rows,,,,,
+A4_timing.csv,12,12,identical,,,0.0,0.0,

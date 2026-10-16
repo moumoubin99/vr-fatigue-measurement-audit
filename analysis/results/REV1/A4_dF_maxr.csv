@@ -1,0 +1,5 @@
+quantity,n,value_sim,value_analytic
+"latent normal (observed thresholds), corr(L, dF)",404,0.9137348250791858,0.9133426565023391
+"comonotone max Pearson r(dF, dO1) given both observed marginals",404,0.9082862146787493,
+"comonotone max Pearson r(dF, dO2) given both observed marginals",404,0.9190849387712988,
+"comonotone max Pearson r(dF, dO3) given both observed marginals",404,0.9003080229797796,

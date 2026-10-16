@@ -1,0 +1,4 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A3v3_curves.csv,94,94,identical,,,0.0,0.0,
+A3v3_fits.csv,14,14,identical,,,0.0,0.0,
+A3v3_pooled.csv,2,2,identical,,,0.0,0.0,

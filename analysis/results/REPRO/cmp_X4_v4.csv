@@ -1,0 +1,5 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+X4_assoc.csv,16,16,identical,,,0.0,0.0,
+X4_desc.csv,32,32,identical,,,0.0,0.0,
+X4_paired.csv,8,8,identical,,,0.0,0.0,
+X4_recordings.parquet,814,814,identical+cols,,line_down_share;n_dy,0.0,0.0,

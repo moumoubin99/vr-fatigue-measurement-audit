@@ -1,0 +1,361 @@
+label,convention,measure,cell,pre,post,reported,computed,difference,tolerance,match
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,mean_noF_pre,sleep0,sleep2,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,mean_noF_post,sleep0,sleep2,2.16,2.1704545454545454,0.010454545454545272,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,mean_F_pre,sleep0,sleep2,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,mean_F_post,sleep0,sleep2,2.74,2.7444933920704844,0.004493392070484159,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,t_pre_group,sleep0,sleep2,-6.26,-6.280524704580333,-0.02052470458033362,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,t_post_group,sleep0,sleep2,-5.71,-5.493534215992951,0.21646578400704897,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,t_paired_noF,sleep0,sleep2,-3.82,-3.816836876964414,0.0031631230355859685,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,t_paired_F,sleep0,sleep2,-4.62,-4.623353620656745,-0.003353620656745271,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Sleepiness,t_delta_group,sleep0,sleep2,-0.15,-0.15177235825348961,-0.0017723582534896198,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,mean_noF_pre,neck0,neck2,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,mean_noF_post,neck0,neck2,1.75,1.7556818181818181,0.005681818181818121,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,mean_F_pre,neck0,neck2,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,mean_F_post,neck0,neck2,2.27,2.2731277533039647,0.003127753303964642,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,t_pre_group,neck0,neck2,-6.21,-5.974878865209474,0.23512113479052577,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,t_post_group,neck0,neck2,-5.84,-5.735565255490661,0.10443474450933898,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,t_paired_noF,neck0,neck2,-6.34,-6.335417126825242,0.004582873174757474,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,t_paired_F,neck0,neck2,-5.53,-5.525406773207971,0.004593226792029448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Neck fatigue,t_delta_group,neck0,neck2,-0.06,-0.062380752581807336,-0.0023807525818073383,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,mean_noF_pre,comfort0,comfort2,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,mean_noF_post,comfort0,comfort2,4.94,4.931818181818182,-0.008181818181818734,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,mean_F_pre,comfort0,comfort2,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,mean_F_post,comfort0,comfort2,4.63,4.631578947368421,0.0015789473684213462,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,t_pre_group,comfort0,comfort2,1.76,1.7633798400819114,0.0033798400819113894,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,t_post_group,comfort0,comfort2,2.07,1.9820300607105128,-0.08796993928948704,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,t_paired_noF,comfort0,comfort2,6.05,6.054687246986511,0.004687246986510907,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,t_paired_F,comfort0,comfort2,8.29,8.293302184443226,0.003302184443226608,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical comfort,t_delta_group,comfort0,comfort2,0.51,0.5200343584663375,0.01003435846633749,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,mean_noF_post,mental1,mental2,2.01,2.0056818181818183,-0.0043181818181814435,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,mean_F_pre,mental1,mental2,2.36,2.369565217391304,0.009565217391304337,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.487511956664481,0.0524880433355186,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,t_post_group,mental1,mental2,-5.03,-5.0016544479353495,0.028345552064650725,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1524930979824757,0.03750690201752427,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,mean_noF_post,physical1,physical2,1.54,1.5397727272727273,-0.00022727272727274261,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7434782608695651,0.003478260869565153,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.8760689185348642,0.06393108146513571,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5542910734331787,-0.04429107343317895,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|available-case,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.8178800227590891,0.03211997724091087,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,mean_noF_pre,sleep0,sleep2,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,mean_noF_post,sleep0,sleep2,2.16,2.16,0.0,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,mean_F_pre,sleep0,sleep2,2.43,2.4317180616740086,0.0017180616740084531,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,mean_F_post,sleep0,sleep2,2.74,2.7444933920704844,0.004493392070484159,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,t_pre_group,sleep0,sleep2,-6.26,-6.260078965145172,-7.896514517202746e-05,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,t_post_group,sleep0,sleep2,-5.71,-5.599390819214569,0.11060918078543125,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,t_paired_noF,sleep0,sleep2,-3.82,-3.816836876964414,0.0031631230355859685,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,t_paired_F,sleep0,sleep2,-4.62,-4.623353620656745,-0.003353620656745271,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Sleepiness,t_delta_group,sleep0,sleep2,-0.15,-0.15177235825348961,-0.0017723582534896198,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,mean_noF_pre,neck0,neck2,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,mean_noF_post,neck0,neck2,1.75,1.7542857142857142,0.004285714285714226,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,mean_F_pre,neck0,neck2,1.91,1.907488986784141,-0.0025110132158590037,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,mean_F_post,neck0,neck2,2.27,2.2731277533039647,0.003127753303964642,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,t_pre_group,neck0,neck2,-6.21,-5.942054465236879,0.267945534763121,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,t_post_group,neck0,neck2,-5.84,-5.7351752337499216,0.1048247662500783,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,t_paired_noF,neck0,neck2,-6.34,-6.335417126825242,0.004582873174757474,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,t_paired_F,neck0,neck2,-5.53,-5.525406773207971,0.004593226792029448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Neck fatigue,t_delta_group,neck0,neck2,-0.06,-0.062380752581807336,-0.0023807525818073383,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,mean_noF_pre,comfort0,comfort2,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,mean_noF_post,comfort0,comfort2,4.94,4.942857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,mean_F_pre,comfort0,comfort2,5.39,5.385964912280702,-0.004035087719297614,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,mean_F_post,comfort0,comfort2,4.63,4.631578947368421,0.0015789473684213462,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,t_pre_group,comfort0,comfort2,1.76,1.7338268721065293,-0.026173127893470705,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,t_post_group,comfort0,comfort2,2.07,2.0532548050006185,-0.01674519499938132,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,t_paired_noF,comfort0,comfort2,6.05,6.054687246986511,0.004687246986510907,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,t_paired_F,comfort0,comfort2,8.29,8.293302184443226,0.003302184443226608,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical comfort,t_delta_group,comfort0,comfort2,0.51,0.5200343584663375,0.01003435846633749,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,mean_noF_post,mental1,mental2,2.01,2.005714285714286,-0.004285714285714004,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,mean_F_pre,mental1,mental2,2.36,2.3640350877192984,0.004035087719298502,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.415527511011108,0.12447248898889196,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,t_post_group,mental1,mental2,-5.03,-4.987072508538013,0.042927491461987266,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1524930979824757,0.03750690201752427,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,mean_noF_post,physical1,physical2,1.54,1.542857142857143,0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7412280701754386,0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.847827478996922,0.09217252100307816,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5102467158468684,-0.00024671584686863923,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|student|paired-subset,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.8178800227590891,0.03211997724091087,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,mean_noF_pre,sleep0,sleep2,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,mean_noF_post,sleep0,sleep2,2.16,2.1704545454545454,0.010454545454545272,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,mean_F_pre,sleep0,sleep2,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,mean_F_post,sleep0,sleep2,2.74,2.7444933920704844,0.004493392070484159,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,t_pre_group,sleep0,sleep2,-6.26,-6.26206120681031,-0.002061206810310523,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,t_post_group,sleep0,sleep2,-5.71,-5.541631826608321,0.16836817339167887,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,t_paired_noF,sleep0,sleep2,-3.82,-3.816836876964414,0.0031631230355859685,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,t_paired_F,sleep0,sleep2,-4.62,-4.623353620656745,-0.003353620656745271,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Sleepiness,t_delta_group,sleep0,sleep2,-0.15,-0.151568914400787,-0.0015689144007870193,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,mean_noF_pre,neck0,neck2,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,mean_noF_post,neck0,neck2,1.75,1.7556818181818181,0.005681818181818121,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,mean_F_pre,neck0,neck2,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,mean_F_post,neck0,neck2,2.27,2.2731277533039647,0.003127753303964642,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,t_pre_group,neck0,neck2,-6.21,-6.214013170657021,-0.004013170657021448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,t_post_group,neck0,neck2,-5.84,-5.842297681475783,-0.002297681475782909,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,t_paired_noF,neck0,neck2,-6.34,-6.335417126825242,0.004582873174757474,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,t_paired_F,neck0,neck2,-5.53,-5.525406773207971,0.004593226792029448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Neck fatigue,t_delta_group,neck0,neck2,-0.06,-0.06464745427442449,-0.004647454274424492,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,mean_noF_pre,comfort0,comfort2,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,mean_noF_post,comfort0,comfort2,4.94,4.931818181818182,-0.008181818181818734,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,mean_F_pre,comfort0,comfort2,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,mean_F_post,comfort0,comfort2,4.63,4.631578947368421,0.0015789473684213462,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,t_pre_group,comfort0,comfort2,1.76,1.7633008638066585,0.003300863806658505,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,t_post_group,comfort0,comfort2,2.07,1.9551508538533828,-0.11484914614661701,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,t_paired_noF,comfort0,comfort2,6.05,6.054687246986511,0.004687246986510907,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,t_paired_F,comfort0,comfort2,8.29,8.293302184443226,0.003302184443226608,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical comfort,t_delta_group,comfort0,comfort2,0.51,0.5146889308863268,0.004688930886326825,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,mean_noF_post,mental1,mental2,2.01,2.0056818181818183,-0.0043181818181814435,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,mean_F_pre,mental1,mental2,2.36,2.369565217391304,0.009565217391304337,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.5429646367698355,-0.0029646367698354936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,t_post_group,mental1,mental2,-5.03,-5.057378823229302,-0.027378823229302185,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1861316171382157,0.0038683828617842586,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,mean_noF_post,physical1,physical2,1.54,1.5397727272727273,-0.00022727272727274261,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7434782608695651,0.003478260869565153,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.9378608107181057,0.0021391892818942715,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5981360244411236,-0.08813602444112378,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|available-case,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.853369532180816,-0.0033695321808160372,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,mean_noF_pre,sleep0,sleep2,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,mean_noF_post,sleep0,sleep2,2.16,2.16,0.0,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,mean_F_pre,sleep0,sleep2,2.43,2.4317180616740086,0.0017180616740084531,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,mean_F_post,sleep0,sleep2,2.74,2.7444933920704844,0.004493392070484159,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,t_pre_group,sleep0,sleep2,-6.26,-6.246339305418969,0.013660694581030697,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,t_post_group,sleep0,sleep2,-5.71,-5.654502826654394,0.05549717334560622,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,t_paired_noF,sleep0,sleep2,-3.82,-3.816836876964414,0.0031631230355859685,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,t_paired_F,sleep0,sleep2,-4.62,-4.623353620656745,-0.003353620656745271,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Sleepiness,t_delta_group,sleep0,sleep2,-0.15,-0.151568914400787,-0.0015689144007870193,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,mean_noF_pre,neck0,neck2,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,mean_noF_post,neck0,neck2,1.75,1.7542857142857142,0.004285714285714226,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,mean_F_pre,neck0,neck2,1.91,1.907488986784141,-0.0025110132158590037,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,mean_F_post,neck0,neck2,2.27,2.2731277533039647,0.003127753303964642,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,t_pre_group,neck0,neck2,-6.21,-6.169630249231658,0.04036975076834182,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,t_post_group,neck0,neck2,-5.84,-5.842348584389923,-0.0023485843899235803,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,t_paired_noF,neck0,neck2,-6.34,-6.335417126825242,0.004582873174757474,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,t_paired_F,neck0,neck2,-5.53,-5.525406773207971,0.004593226792029448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Neck fatigue,t_delta_group,neck0,neck2,-0.06,-0.06464745427442449,-0.004647454274424492,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,mean_noF_pre,comfort0,comfort2,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,mean_noF_post,comfort0,comfort2,4.94,4.942857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,mean_F_pre,comfort0,comfort2,5.39,5.385964912280702,-0.004035087719297614,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,mean_F_post,comfort0,comfort2,4.63,4.631578947368421,0.0015789473684213462,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,t_pre_group,comfort0,comfort2,1.76,1.7341314082135126,-0.02586859178648737,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,t_post_group,comfort0,comfort2,2.07,2.025163967157154,-0.044836032842845874,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,t_paired_noF,comfort0,comfort2,6.05,6.054687246986511,0.004687246986510907,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,t_paired_F,comfort0,comfort2,8.29,8.293302184443226,0.003302184443226608,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical comfort,t_delta_group,comfort0,comfort2,0.51,0.5146889308863268,0.004688930886326825,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,mean_noF_post,mental1,mental2,2.01,2.005714285714286,-0.004285714285714004,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,mean_F_pre,mental1,mental2,2.36,2.3640350877192984,0.004035087719298502,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.469889415793883,0.07011058420611693,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,t_post_group,mental1,mental2,-5.03,-5.041959180334756,-0.01195918033475607,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1861316171382157,0.0038683828617842586,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,mean_noF_post,physical1,physical2,1.54,1.542857142857143,0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7412280701754386,0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.906674295296832,0.03332570470316787,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,t_post_group,physical1,physical2,-3.51,-3.553754773952077,-0.043754773952077386,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=after|welch|paired-subset,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.853369532180816,-0.0033695321808160372,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,mean_noF_pre,sleep0,sleep1,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,mean_noF_post,sleep0,sleep1,2.16,2.039772727272727,-0.12022727272727307,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,mean_F_pre,sleep0,sleep1,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,mean_F_post,sleep0,sleep1,2.74,2.5608695652173914,-0.17913043478260882,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,t_pre_group,sleep0,sleep1,-6.26,-6.280524704580333,-0.02052470458033362,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,t_post_group,sleep0,sleep1,-5.71,-5.51690871474918,0.1930912852508202,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,t_paired_noF,sleep0,sleep1,-3.82,-2.615038804224185,1.2049611957758146,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,t_paired_F,sleep0,sleep1,-4.62,-2.476676921083687,2.143323078916313,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Sleepiness,t_delta_group,sleep0,sleep1,-0.15,0.49298074309025847,0.6429807430902584,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,mean_noF_pre,neck0,neck1,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,mean_noF_post,neck0,neck1,1.75,1.6477272727272727,-0.10227272727272729,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,mean_F_pre,neck0,neck1,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,mean_F_post,neck0,neck1,2.27,2.121739130434783,-0.14826086956521722,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,t_pre_group,neck0,neck1,-6.21,-5.974878865209474,0.23512113479052577,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,t_post_group,neck0,neck1,-5.84,-5.449604499522828,0.39039550047717153,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,t_paired_noF,neck0,neck1,-6.34,-5.001960399996911,1.3380396000030892,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,t_paired_F,neck0,neck1,-5.53,-4.094960673640438,1.4350393263595622,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Neck fatigue,t_delta_group,neck0,neck1,-0.06,0.5185077557373015,0.5785077557373015,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,mean_noF_pre,comfort0,comfort1,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,mean_noF_post,comfort0,comfort1,4.94,5.107954545454546,0.16795454545454547,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,mean_F_pre,comfort0,comfort1,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,mean_F_post,comfort0,comfort1,4.63,4.773913043478261,0.1439130434782614,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,t_pre_group,comfort0,comfort1,1.76,1.7633798400819114,0.0033798400819113894,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,t_post_group,comfort0,comfort1,2.07,2.235743854693204,0.16574385469320418,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,t_paired_noF,comfort0,comfort1,6.05,5.034771182815496,-1.0152288171845036,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,t_paired_F,comfort0,comfort1,8.29,7.657756416995999,-0.6322435830040005,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical comfort,t_delta_group,comfort0,comfort1,0.51,0.7408035450846574,0.2308035450846574,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,mean_noF_post,mental1,mental2,2.01,2.0056818181818183,-0.0043181818181814435,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,mean_F_pre,mental1,mental2,2.36,2.369565217391304,0.009565217391304337,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.487511956664481,0.0524880433355186,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,t_post_group,mental1,mental2,-5.03,-5.0016544479353495,0.028345552064650725,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1524930979824757,0.03750690201752427,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,mean_noF_post,physical1,physical2,1.54,1.5397727272727273,-0.00022727272727274261,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7434782608695651,0.003478260869565153,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.8760689185348642,0.06393108146513571,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5542910734331787,-0.04429107343317895,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|available-case,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.8178800227590891,0.03211997724091087,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,mean_noF_pre,sleep0,sleep1,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,mean_noF_post,sleep0,sleep1,2.16,2.0342857142857143,-0.1257142857142859,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,mean_F_pre,sleep0,sleep1,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,mean_F_post,sleep0,sleep1,2.74,2.5608695652173914,-0.17913043478260882,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,t_pre_group,sleep0,sleep1,-6.26,-6.280524704580333,-0.02052470458033362,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,t_post_group,sleep0,sleep1,-5.71,-5.566291887902355,0.1437081120976451,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,t_paired_noF,sleep0,sleep1,-3.82,-2.615038804224185,1.2049611957758146,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,t_paired_F,sleep0,sleep1,-4.62,-2.476676921083687,2.143323078916313,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Sleepiness,t_delta_group,sleep0,sleep1,-0.15,0.49298074309025847,0.6429807430902584,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,mean_noF_pre,neck0,neck1,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,mean_noF_post,neck0,neck1,1.75,1.6457142857142857,-0.10428571428571431,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,mean_F_pre,neck0,neck1,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,mean_F_post,neck0,neck1,2.27,2.121739130434783,-0.14826086956521722,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,t_pre_group,neck0,neck1,-6.21,-5.974878865209474,0.23512113479052577,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,t_post_group,neck0,neck1,-5.84,-5.4582620490074385,0.38173795099256136,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,t_paired_noF,neck0,neck1,-6.34,-5.001960399996911,1.3380396000030892,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,t_paired_F,neck0,neck1,-5.53,-4.094960673640438,1.4350393263595622,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Neck fatigue,t_delta_group,neck0,neck1,-0.06,0.5185077557373015,0.5785077557373015,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,mean_noF_pre,comfort0,comfort1,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,mean_noF_post,comfort0,comfort1,4.94,5.1085714285714285,0.16857142857142815,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,mean_F_pre,comfort0,comfort1,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,mean_F_post,comfort0,comfort1,4.63,4.773913043478261,0.1439130434782614,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,t_pre_group,comfort0,comfort1,1.76,1.7633798400819114,0.0033798400819113894,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,t_post_group,comfort0,comfort1,2.07,2.233501227892363,0.16350122789236332,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,t_paired_noF,comfort0,comfort1,6.05,5.034771182815496,-1.0152288171845036,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,t_paired_F,comfort0,comfort1,8.29,7.657756416995999,-0.6322435830040005,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical comfort,t_delta_group,comfort0,comfort1,0.51,0.7408035450846574,0.2308035450846574,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,mean_noF_post,mental1,mental2,2.01,2.005714285714286,-0.004285714285714004,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,mean_F_pre,mental1,mental2,2.36,2.3640350877192984,0.004035087719298502,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.415527511011108,0.12447248898889196,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,t_post_group,mental1,mental2,-5.03,-4.987072508538013,0.042927491461987266,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1524930979824757,0.03750690201752427,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,mean_noF_post,physical1,physical2,1.54,1.542857142857143,0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7412280701754386,0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.847827478996922,0.09217252100307816,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5102467158468684,-0.00024671584686863923,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|student|paired-subset,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.8178800227590891,0.03211997724091087,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,mean_noF_pre,sleep0,sleep1,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,mean_noF_post,sleep0,sleep1,2.16,2.039772727272727,-0.12022727272727307,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,mean_F_pre,sleep0,sleep1,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,mean_F_post,sleep0,sleep1,2.74,2.5608695652173914,-0.17913043478260882,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,t_pre_group,sleep0,sleep1,-6.26,-6.26206120681031,-0.002061206810310523,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,t_post_group,sleep0,sleep1,-5.71,-5.563107833309238,0.14689216669076188,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,t_paired_noF,sleep0,sleep1,-3.82,-2.615038804224185,1.2049611957758146,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,t_paired_F,sleep0,sleep1,-4.62,-2.476676921083687,2.143323078916313,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Sleepiness,t_delta_group,sleep0,sleep1,-0.15,0.48750095927535014,0.6375009592753501,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,mean_noF_pre,neck0,neck1,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,mean_noF_post,neck0,neck1,1.75,1.6477272727272727,-0.10227272727272729,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,mean_F_pre,neck0,neck1,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,mean_F_post,neck0,neck1,2.27,2.121739130434783,-0.14826086956521722,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,t_pre_group,neck0,neck1,-6.21,-6.214013170657021,-0.004013170657021448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,t_post_group,neck0,neck1,-5.84,-5.54861341053508,0.2913865894649197,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,t_paired_noF,neck0,neck1,-6.34,-5.001960399996911,1.3380396000030892,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,t_paired_F,neck0,neck1,-5.53,-4.094960673640438,1.4350393263595622,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Neck fatigue,t_delta_group,neck0,neck1,-0.06,0.530606572944945,0.590606572944945,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,mean_noF_pre,comfort0,comfort1,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,mean_noF_post,comfort0,comfort1,4.94,5.107954545454546,0.16795454545454547,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,mean_F_pre,comfort0,comfort1,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,mean_F_post,comfort0,comfort1,4.63,4.773913043478261,0.1439130434782614,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,t_pre_group,comfort0,comfort1,1.76,1.7633008638066585,0.003300863806658505,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,t_post_group,comfort0,comfort1,2.07,2.2334202465509536,0.16342024655095377,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,t_paired_noF,comfort0,comfort1,6.05,5.034771182815496,-1.0152288171845036,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,t_paired_F,comfort0,comfort1,8.29,7.657756416995999,-0.6322435830040005,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical comfort,t_delta_group,comfort0,comfort1,0.51,0.7294263991707275,0.21942639917072748,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,mean_noF_post,mental1,mental2,2.01,2.0056818181818183,-0.0043181818181814435,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,mean_F_pre,mental1,mental2,2.36,2.369565217391304,0.009565217391304337,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.5429646367698355,-0.0029646367698354936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,t_post_group,mental1,mental2,-5.03,-5.057378823229302,-0.027378823229302185,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1861316171382157,0.0038683828617842586,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,mean_noF_post,physical1,physical2,1.54,1.5397727272727273,-0.00022727272727274261,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7434782608695651,0.003478260869565153,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.9378608107181057,0.0021391892818942715,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,t_post_group,physical1,physical2,-3.51,-3.5981360244411236,-0.08813602444112378,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|available-case,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.853369532180816,-0.0033695321808160372,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,mean_noF_pre,sleep0,sleep1,1.86,1.8628571428571428,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,mean_noF_post,sleep0,sleep1,2.16,2.0342857142857143,-0.1257142857142859,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,mean_F_pre,sleep0,sleep1,2.43,2.4304347826086956,0.0004347826086954498,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,mean_F_post,sleep0,sleep1,2.74,2.5608695652173914,-0.17913043478260882,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,t_pre_group,sleep0,sleep1,-6.26,-6.26206120681031,-0.002061206810310523,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,t_post_group,sleep0,sleep1,-5.71,-5.614154952076558,0.09584504792344184,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,t_paired_noF,sleep0,sleep1,-3.82,-2.615038804224185,1.2049611957758146,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,t_paired_F,sleep0,sleep1,-4.62,-2.476676921083687,2.143323078916313,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Sleepiness,t_delta_group,sleep0,sleep1,-0.15,0.48750095927535014,0.6375009592753501,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,mean_noF_pre,neck0,neck1,1.39,1.3942857142857144,0.004285714285714448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,mean_noF_post,neck0,neck1,1.75,1.6457142857142857,-0.10428571428571431,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,mean_F_pre,neck0,neck1,1.91,1.9086956521739131,-0.0013043478260867936,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,mean_F_post,neck0,neck1,2.27,2.121739130434783,-0.14826086956521722,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,t_pre_group,neck0,neck1,-6.21,-6.214013170657021,-0.004013170657021448,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,t_post_group,neck0,neck1,-5.84,-5.557818095311029,0.2821819046889704,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,t_paired_noF,neck0,neck1,-6.34,-5.001960399996911,1.3380396000030892,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,t_paired_F,neck0,neck1,-5.53,-4.094960673640438,1.4350393263595622,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Neck fatigue,t_delta_group,neck0,neck1,-0.06,0.530606572944945,0.590606572944945,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,mean_noF_pre,comfort0,comfort1,5.62,5.622857142857143,0.0028571428571426694,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,mean_noF_post,comfort0,comfort1,4.94,5.1085714285714285,0.16857142857142815,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,mean_F_pre,comfort0,comfort1,5.39,5.3826086956521735,-0.0073913043478262,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,mean_F_post,comfort0,comfort1,4.63,4.773913043478261,0.1439130434782614,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,t_pre_group,comfort0,comfort1,1.76,1.7633008638066585,0.003300863806658505,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,t_post_group,comfort0,comfort1,2.07,2.230265571154272,0.1602655711542722,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,t_paired_noF,comfort0,comfort1,6.05,5.034771182815496,-1.0152288171845036,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,t_paired_F,comfort0,comfort1,8.29,7.657756416995999,-0.6322435830040005,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical comfort,t_delta_group,comfort0,comfort1,0.51,0.7294263991707275,0.21942639917072748,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,mean_noF_pre,mental1,mental2,1.94,1.937142857142857,-0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,mean_noF_post,mental1,mental2,2.01,2.005714285714286,-0.004285714285714004,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,mean_F_pre,mental1,mental2,2.36,2.3640350877192984,0.004035087719298502,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,mean_F_post,mental1,mental2,2.51,2.508771929824561,-0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,t_pre_group,mental1,mental2,-4.54,-4.469889415793883,0.07011058420611693,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,t_post_group,mental1,mental2,-5.03,-5.041959180334756,-0.01195918033475607,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,t_paired_noF,mental1,mental2,-1.58,-1.582434055964139,-0.002434055964138926,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,t_paired_F,mental1,mental2,-3.05,-3.0543030503353252,-0.004303050335325409,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Mental effort,t_delta_group,mental1,mental2,-1.19,-1.1861316171382157,0.0038683828617842586,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,mean_noF_pre,physical1,physical2,1.49,1.4914285714285713,0.0014285714285713347,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,mean_noF_post,physical1,physical2,1.54,1.542857142857143,0.0028571428571428914,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,mean_F_pre,physical1,physical2,1.74,1.7412280701754386,0.001228070175438578,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,mean_F_post,physical1,physical2,1.85,1.8464912280701755,-0.0035087719298245723,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,t_pre_group,physical1,physical2,-2.94,-2.906674295296832,0.03332570470316787,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,t_post_group,physical1,physical2,-3.51,-3.553754773952077,-0.043754773952077386,0.005,False
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,t_paired_noF,physical1,physical2,-1.29,-1.2881338866044536,0.0018661133955464315,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,t_paired_F,physical1,physical2,-2.16,-2.155110502682491,0.004889497317509317,0.005,True
+"a001 (F0>=2, F1 fallback, missing negative)",post=between|welch|paired-subset,Physical effort,t_delta_group,physical1,physical2,-0.85,-0.853369532180816,-0.0033695321808160372,0.005,True

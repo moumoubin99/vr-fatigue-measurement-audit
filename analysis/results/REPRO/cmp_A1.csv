@@ -1,0 +1,5 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A1_missing_assignments.csv,8,8,identical,,,0.0,0.0,
+A1_rules_table2.csv,105,105,identical,,,0.0,0.0,
+A1_table8_assignments.csv,24,24,identical,,,0.0,0.0,
+A1_table8_cells.csv,360,360,identical,,,0.0,0.0,

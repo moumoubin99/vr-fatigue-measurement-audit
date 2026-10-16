@@ -1,0 +1,11 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A2_boot_s1.csv,500,500,identical,,,0.0,0.0,
+A2_grouped_s1.csv,26,26,identical,,,0.0,0.0,
+A2_increments_s1.csv,9,9,differs,,,0.0101285090455397,0.5787409995009684,d_auc_lrcv
+A2_perm_s1.csv,4,4,identical,,,0.0,0.0,
+A2_sub_s1.csv,100,100,identical,,,0.0,0.0,
+A2_summary_s1.csv,39,39,differs,,,0.006938240798502804,0.01187015193623715,bacc
+blocks_s1.csv,6,6,identical,,,0.0,0.0,
+oof_s1.parquet,404,404,differs,,,0.7427814484683568,323.7054164842715,D+X|lrcv|4
+scores_X_PURRAN.parquet,404,404,identical,,,0.0,0.0,
+scores_X_all.parquet,404,404,identical,,,0.0,0.0,

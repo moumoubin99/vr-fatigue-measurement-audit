@@ -1,0 +1,3 @@
+file,n_rows_frozen,n_rows_new,status,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A2_lrcv_nested_auc.csv,13,13,identical,,,0.0,0.0,
+A2_lrcv_nested_inc.csv,9,9,identical,,,0.0,0.0,

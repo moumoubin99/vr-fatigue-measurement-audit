@@ -1,0 +1,5 @@
+file,status,n_rows_frozen,n_rows_new,cols_missing,cols_extra,max_abs,max_rel,worst_col
+A4_rel_atten_WITHDRAWN.csv,missing,,,,,,,
+A4_rel_cross.csv,identical,10.0,10.0,,,0.0,0.0,
+A4_rel_obs.csv,identical,3.0,3.0,,,0.0,0.0,
+A4_rel_split.csv,identical,6.0,6.0,,,0.0,0.0,
