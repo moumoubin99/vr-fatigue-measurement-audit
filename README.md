@@ -10,7 +10,7 @@ The analysis separates baseline-label prediction, associations between paired ra
 - `analysis/README_REPRO.md`: result map, dependency specification, execution layout, and limits of each reproducibility route.
 - `analysis/MANIFEST.json`: relative file paths, byte counts, and SHA-256 digests for the analysis package.
 - `DATA_SOURCES.md`: original dataset citations, version DOIs, licenses, and archive checksums.
-- `DOWNLOAD_AND_REASSEMBLE.md`: original-source download route and planned split-release route.
+- `DOWNLOAD_AND_REASSEMBLE.md`: original-source download route and published split-release route.
 - `release-manifests/raw-data-v1.json`: original-archive identities and the ordered part records used for reconstruction.
 - `tools/reassemble_archives.py`: standard-library-only, streaming reconstruction and checksum verification. It performs no extraction, data analysis, or model training.
 
